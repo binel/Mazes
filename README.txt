@@ -1,0 +1,1 @@
+These are java programs to generate a few different types of mazes. I made these as I was reading the excellent book by Jamis Buck "Mazes for Programmers". 
